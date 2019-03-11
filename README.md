@@ -1,5 +1,5 @@
 # TreePlus
-TreePlus is an Open Source JavaScript discord bot, encoded in JavaScript where everyone can participate in its development.
+TreePlus is an Open Source discord bot encoded in JavaScript where everyone can participate in its development.
 
 # Join The Development
 
