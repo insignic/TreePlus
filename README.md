@@ -9,7 +9,7 @@ TreePlus is an Open Source discord bot encoded in JavaScript where everyone can 
 The goal of this bot is to raise awareness about ecology and encourage users to use eco-friendly tools.
 Such as these softwares/applications :
 
-- [Ecosia](http://ecosia.org)
+- [Ecosia](http://ecosia.org) ![LogoEcosia](https://image.noelshack.com/fichiers/2019/11/2/1552408454-card-share-content-facebook.jpg)
 - [CleanFox](http://cleanfox.io)
 
 ## Join The Development
